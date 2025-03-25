@@ -5,6 +5,6 @@
 使用说明：
 本项目是Chrome插件，下载之后安装到Chrome浏览器中，即可使用
 
-![image-20250325134511881](https://lucifer-image.oss-cn-hangzhou.aliyuncs.com/images/image-20250325134511881.png)
+![image-20250325134511881]()
 
 点击播放后，右上角会出现下载按钮，即可导航到音乐界面。
